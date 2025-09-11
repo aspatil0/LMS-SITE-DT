@@ -1,14 +1,18 @@
- start date : 9/11/2025
- Duration : 1 weeks
+Project Name: LMS Site
 
- Stack :
- Frontend with NextJs and backend using NextJs
- I use Sopabase as database
+Start Date: 9/11/2025
+Duration: 1 week
 
- Contributer:
- It is my own Single Project
+Stack:
+- Frontend: Next.js
+- Backend: Next.js
+- Database: Supabase
 
+Contributor:
+- Single project by Adityaraj Patil
 
-
- Refrences:
- Youtube : Code with Harry and Chai and Code
+References:
+- YouTube: Code with Harry
+- YouTube: Chai and Code
+- Youtube : https://youtu.be/XZj4hmbNdSE?si=oeriHX4RlMt8GiKy
+- Youtube : https://youtu.be/p2zWawmDkF4?si=1rgnU4cGCI4N1W8C
