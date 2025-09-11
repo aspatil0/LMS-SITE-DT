@@ -27,24 +27,4 @@
 
 ---
 
-## 📂 Project Structure
 
-```bash
-LMS-Project/
-│── client/            # React Frontend
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       └── utils/
-│
-│── server/            # Express Backend
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-│
-│── .env               # Environment variables
-│── package.json
-│── README.md
