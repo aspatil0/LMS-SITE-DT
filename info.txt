@@ -1,0 +1,14 @@
+ start date : 9/11/2025
+ Duration : 1 weeks
+
+ Stack :
+ Frontend with NextJs and backend using NextJs
+ I use Sopabase as database
+
+ Contributer:
+ It is my own Single Project
+
+
+
+ Refrences:
+ Youtube : Code with Harry and Chai and Code
